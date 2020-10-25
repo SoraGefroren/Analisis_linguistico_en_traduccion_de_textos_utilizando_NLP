@@ -1,0 +1,743 @@
+[
+     [
+          "decir",
+          {
+               "Formas": [
+                    "dijo",
+                    "dicho"
+               ],
+               "Apariciones": 23
+          }
+     ],
+     [
+          "hacer",
+          {
+               "Formas": [
+                    "hizo",
+                    "hagamos",
+                    "hecho",
+                    "haré",
+                    "hicieron",
+                    "hiciste"
+               ],
+               "Apariciones": 19
+          }
+     ],
+     [
+          "comer",
+          {
+               "Formas": [
+                    "comer",
+                    "comerás",
+                    "comáis",
+                    "comió",
+                    "comido",
+                    "comí",
+                    "comiste"
+               ],
+               "Apariciones": 15
+          }
+     ],
+     [
+          "llamar",
+          {
+               "Formas": [
+                    "llamó",
+                    "llamaría"
+               ],
+               "Apariciones": 9
+          }
+     ],
+     [
+          "ver",
+          {
+               "Formas": [
+                    "vio"
+               ],
+               "Apariciones": 8
+          }
+     ],
+     [
+          "dar",
+          {
+               "Formas": [
+                    "den",
+                    "dan",
+                    "dado",
+                    "da",
+                    "dio",
+                    "dieron"
+               ],
+               "Apariciones": 8
+          }
+     ],
+     [
+          "tomar",
+          {
+               "Formas": [
+                    "tomó",
+                    "tomada",
+                    "tomado",
+                    "tome"
+               ],
+               "Apariciones": 8
+          }
+     ],
+     [
+          "crear",
+          {
+               "Formas": [
+                    "creó",
+                    "creados"
+               ],
+               "Apariciones": 6
+          }
+     ],
+     [
+          "producir",
+          {
+               "Formas": [
+                    "produzca",
+                    "produjo",
+                    "produzcan",
+                    "produjeron",
+                    "producirá"
+               ],
+               "Apariciones": 6
+          }
+     ],
+     [
+          "estar",
+          {
+               "Formas": [
+                    "está",
+                    "esté",
+                    "estaba",
+                    "estás",
+                    "estabas"
+               ],
+               "Apariciones": 6
+          }
+     ],
+     [
+          "poner",
+          {
+               "Formas": [
+                    "puso"
+               ],
+               "Apariciones": 5
+          }
+     ],
+     [
+          "separar",
+          {
+               "Formas": [
+                    "separó",
+                    "separe",
+                    "separar"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "servir",
+          {
+               "Formas": [
+                    "servir",
+                    "sirvan",
+                    "servirán",
+                    "servirá"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "desplazar",
+          {
+               "Formas": [
+                    "desplazan",
+                    "desplaza"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "dominar",
+          {
+               "Formas": [
+                    "dominar"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "tener",
+          {
+               "Formas": [
+                    "tenga",
+                    "tened",
+                    "tuve"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "formar",
+          {
+               "Formas": [
+                    "formó",
+                    "formado"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "mandar",
+          {
+               "Formas": [
+                    "mandó",
+                    "mandé"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "responder",
+          {
+               "Formas": [
+                    "respondió"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "mover",
+          {
+               "Formas": [
+                    "movía"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "alumbrar",
+          {
+               "Formas": [
+                    "alumbren",
+                    "alumbrar"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "llenar",
+          {
+               "Formas": [
+                    "llenad"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "llevar",
+          {
+               "Formas": [
+                    "lleva",
+                    "llevará"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "terminar",
+          {
+               "Formas": [
+                    "terminados",
+                    "terminado"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "regar",
+          {
+               "Formas": [
+                    "regaba",
+                    "regar"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "rodear",
+          {
+               "Formas": [
+                    "rodeaba"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "guardar",
+          {
+               "Formas": [
+                    "guardase",
+                    "guardar"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "traer",
+          {
+               "Formas": [
+                    "trajo"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "conocer",
+          {
+               "Formas": [
+                    "conociendo"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "esconder",
+          {
+               "Formas": [
+                    "escondieron",
+                    "escondí"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "preguntar",
+          {
+               "Formas": [
+                    "preguntó"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "herir",
+          {
+               "Formas": [
+                    "herirá",
+                    "herirás"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "volver",
+          {
+               "Formas": [
+                    "vuelvas",
+                    "volverás"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "aparecer",
+          {
+               "Formas": [
+                    "aparezca"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "distinguir",
+          {
+               "Formas": [
+                    "distinguir"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "volar",
+          {
+               "Formas": [
+                    "vuelen"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "santificar",
+          {
+               "Formas": [
+                    "santificó"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "dios",
+          {
+               "Formas": [
+                    "dios"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "germinar",
+          {
+               "Formas": [
+                    "germinado"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "llover",
+          {
+               "Formas": [
+                    "llover"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "cultivarla",
+          {
+               "Formas": [
+                    "cultivarla"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "subir",
+          {
+               "Formas": [
+                    "subía"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "plantar",
+          {
+               "Formas": [
+                    "plantó"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "brotar",
+          {
+               "Formas": [
+                    "brotar"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "salir",
+          {
+               "Formas": [
+                    "salía"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "dividir",
+          {
+               "Formas": [
+                    "dividía"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "correr",
+          {
+               "Formas": [
+                    "corre"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "cultivar",
+          {
+               "Formas": [
+                    "cultivase"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "hallar",
+          {
+               "Formas": [
+                    "halló"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "caer",
+          {
+               "Formas": [
+                    "cayera"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "dormir",
+          {
+               "Formas": [
+                    "dormía"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "cerrar",
+          {
+               "Formas": [
+                    "cerró"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "dejar",
+          {
+               "Formas": [
+                    "dejará"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "unir",
+          {
+               "Formas": [
+                    "unirá"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "avergonzar",
+          {
+               "Formas": [
+                    "avergonzaban"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "tocar",
+          {
+               "Formas": [
+                    "toquéis"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "murar",
+          {
+               "Formas": [
+                    "muráis"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "morir",
+          {
+               "Formas": [
+                    "moriréis"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "saber",
+          {
+               "Formas": [
+                    "sabe"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "ser",
+          {
+               "Formas": [
+                    "seréis"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "alcanzar",
+          {
+               "Formas": [
+                    "alcanzar"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "abrir",
+          {
+               "Formas": [
+                    "abiertos"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "coser",
+          {
+               "Formas": [
+                    "cosieron"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "oír",
+          {
+               "Formas": [
+                    "oyeron"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "pasear",
+          {
+               "Formas": [
+                    "paseaba"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "--oí",
+          {
+               "Formas": [
+                    "--oí"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "distar",
+          {
+               "Formas": [
+                    "diste"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "engañar",
+          {
+               "Formas": [
+                    "engañó"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "--aumentaré",
+          {
+               "Formas": [
+                    "--aumentaré"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "desear",
+          {
+               "Formas": [
+                    "deseo"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "enseñorear",
+          {
+               "Formas": [
+                    "enseñoreará"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "obedecer",
+          {
+               "Formas": [
+                    "obedeciste"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "vestir",
+          {
+               "Formas": [
+                    "vistió"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "extender",
+          {
+               "Formas": [
+                    "extienda"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "arrojar",
+          {
+               "Formas": [
+                    "arrojó"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "labrar",
+          {
+               "Formas": [
+                    "labrase"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "expulsar",
+          {
+               "Formas": [
+                    "expulsó"
+               ],
+               "Apariciones": 1
+          }
+     ]
+]

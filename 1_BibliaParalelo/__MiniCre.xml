@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<cesDoc version="4">
+	<cesHeader version="2">
+		<fileDesc>
+			<titleStmt>
+				<h.title>
+					Bible(CRP)
+				</h.title>
+				<respStmt>
+					<respType>
+						Constructed in accordance to CES standards.
+					</respType>
+					<respName>
+						Christos Christodoulopoulos
+					</respName>
+				</respStmt>
+			</titleStmt>
+			<extent>
+				<wordCount>
+					920908
+				</wordCount>
+				<byteCount units="bytes">
+					5483415
+				</byteCount>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					Bible Database
+				</distributor>
+				<eAddress>
+					http://bibledatabase.com
+				</eAddress>
+				<availability>
+					free
+				</availability>
+			</publicationStmt>
+			<sourceDesc/>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				This is a part of multi-lingual corpus of the bible.
+			</projectDesc>
+			<editorialDesc>
+				<conformance level="1">
+					Corpus Encoding Standard, Version 2.0
+				</conformance>
+				<correction method="silent" status="medium"/>
+				<segmentation>
+					Marked up to the level of chapter and verse.
+				</segmentation>
+			</editorialDesc>
+			<tagsDecl/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="cp" iso639="crp">
+					Creole
+				</language>
+			</langUsage>
+			<wsdUsage>
+				<writingSystem id="utf-8"/>
+			</wsdUsage>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body id="Bible" lang="cp">
+			<div id="b.GEN" type="book">
+				<div id="b.GEN.1" type="chapter">
+					<seg id="b.GEN.1.1" type="verse">
+						Nan konmansman, Bondye kreye syèl la ak latè a
+					</seg>
+					<seg id="b.GEN.1.2" type="verse">
+						Men latè pa t' gen fòm, li pa t' gen anyen sou li. Fènwa te kouvri toupatou. Lespri Bondye t'ap plane sou dlo ki te kouvri tout latè
+					</seg>
+					<seg id="b.GEN.1.3" type="verse">
+						Bondye di. Se pou limyè fèt. Epi limyè te fèt
+					</seg>
+					<seg id="b.GEN.1.4" type="verse">
+						Bondye wè limyè a te bon. Bondye mete limyè a yon bò, li mete fènwa a yon lòt bò
+					</seg>
+					<seg id="b.GEN.1.5" type="verse">
+						Bondye rele limyè a lajounen, li rele fènwa a lannwit. Yon lannwit pase, yon maten rive. Se te premye jou a
+					</seg>
+					<seg id="b.GEN.1.6" type="verse">
+						Bondye di ankò. Se pou gen yon vout nan mitan dlo a pou separe dlo a an de
+					</seg>
+					<seg id="b.GEN.1.7" type="verse">
+						Bondye fè vout la separe dlo a an de, yon pati anwo vout la, yon lòt pati anba l'. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.8" type="verse">
+						Bondye rele vout la syèl. Yon lannwit pase, yon maten rive. Se te dezyèm jou a
+					</seg>
+					<seg id="b.GEN.1.9" type="verse">
+						Bondye di ankò. Se pou dlo ki anba syèl la sanble yon sèl kote pou kote ki sèk la ka parèt. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.10" type="verse">
+						Bondye rele kote ki sèk la tè. Li rele pil dlo a lanmè. Bondye gade sa l' te fè a, li wè l' bon
+					</seg>
+					<seg id="b.GEN.1.11" type="verse">
+						Bondye di. Se pou tè a pouse tout kalite plant: zèb, plant ki bay grenn, pyebwa ki bay fwi ak tout grenn yo. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.12" type="verse">
+						Tè a pouse tout kalite plant: zèb, plant ki bay grenn, pyebwa ki bay fwi ak tout grenn yo. Bondye gade sa l' te fè a, li wè l' bon
+					</seg>
+					<seg id="b.GEN.1.13" type="verse">
+						Yon lannwit pase, yon maten rive. Se te twazyèm jou a
+					</seg>
+					<seg id="b.GEN.1.14" type="verse">
+						Bondye di ankò. Se pou limyè parèt nan syèl la pou separe lajounen ak lannwit. Y'a sèvi pou make jou yo, lanne yo ak sezon yo
+					</seg>
+					<seg id="b.GEN.1.15" type="verse">
+						Y'a sèvi limyè nan syèl la pou klere tout latè a. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.16" type="verse">
+						Bondye fè de gwo limyè, pi gwo a pou kòmande sou lajounen, pi piti a pou kòmande sou lannwit. Li fè zetwal yo tou
+					</seg>
+					<seg id="b.GEN.1.17" type="verse">
+						Li mete yo nan syèl la pou klere latè a
+					</seg>
+					<seg id="b.GEN.1.18" type="verse">
+						pou kòmande sou lajounen ak sou lannwit, pou separe limyè ak fènwa. Bondye gade sa l' te fè a, li wè l' bon
+					</seg>
+					<seg id="b.GEN.1.19" type="verse">
+						Yon lannwit pase, yon maten rive. Se te katriyèm jou a
+					</seg>
+					<seg id="b.GEN.1.20" type="verse">
+						Bondye di ankò. Se pou dlo yo kale anpil anpil bèt vivan. Se pou zwazo vole nan syèl la anwo tè a. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.21" type="verse">
+						Bondye kreye gwo bèt lanmè yo, tout kalite bèt vivan k'ap naje nan dlo ansanm ak tout kalite zwazo. Bondye gade sa l' te fè a, li wè l' bon
+					</seg>
+					<seg id="b.GEN.1.22" type="verse">
+						Bondye beni yo, li di. Fè pitit, fè anpil anpil pitit, plen dlo lanmè a. Se pou zwazo yo fè anpil anpil pitit tout sou tè a
+					</seg>
+					<seg id="b.GEN.1.23" type="verse">
+						Yon lannwit pase, yon maten rive. Se te senkyèm jou a
+					</seg>
+					<seg id="b.GEN.1.24" type="verse">
+						Bondye di ankò. Se pou tè a kale tout kalite bèt vivan, bèt yo gade, bèt ki trennen sou vant, bèt nan bwa. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.25" type="verse">
+						Bondye fè tout kalite bèt, bèt nan bwa, bèt yo gade, bèt ki trennen sou vant. Li gade sa l' te fè a, li wè l' bon
+					</seg>
+					<seg id="b.GEN.1.26" type="verse">
+						Bondye di ankò. Ann fè moun. N'ap fè l' pòtre ak nou, pou li sanble ak nou. La gen pouvwa sou pwason ki nan lanmè yo, sou zwazo ki nan syèl la, sou tout bèt yo gade, sou tout latè, sou tout bèt nan bwa, sou tout bèt ki trennen sou vant sou tè a
+					</seg>
+					<seg id="b.GEN.1.27" type="verse">
+						Bondye kreye moun. Li fè l' pòtre ak li. Li kreye yo gason ak fi
+					</seg>
+					<seg id="b.GEN.1.28" type="verse">
+						Li ba yo benediksyon, li di. Fè pitit, fè anpil anpil pitit mete sou tè a. Donte tè a. Mwen ban nou pouvwa sou pwason ki nan lanmè, sou zwazo ki nan syèl la, ak sou tout bèt vivan k'ap mache sou tè a
+					</seg>
+					<seg id="b.GEN.1.29" type="verse">
+						Bondye di. Gade. Mwen ban nou tout kalite plant ki bay grenn ak tout kalite pyebwa ki bay fwi ak grenn pou nou manje
+					</seg>
+					<seg id="b.GEN.1.30" type="verse">
+						Men, tout bèt ki sou tè a, tout zwazo ki nan syèl la, tout bèt ki trennen sou vant, wi tout bèt vivan, m'ap ba yo zèb vèt pou yo manje. Se konsa sa te pase
+					</seg>
+					<seg id="b.GEN.1.31" type="verse">
+						Bondye gade sa l' te fè a, li wè l' bon nèt. Yon lannwit pase, yon maten rive. Se te sizyèm jou a
+					</seg>
+				</div>
+				<div id="b.GEN.2" type="chapter">
+					<seg id="b.GEN.2.1" type="verse">
+						Konsa, Bondye te fin fè syèl la, latè a ansanm ak tout sa ki ladan yo
+					</seg>
+					<seg id="b.GEN.2.2" type="verse">
+						Sou sis jou, Bondye te fin fè tout sa l' t'ap fè a. Setyèm jou a, li sispann travay
+					</seg>
+					<seg id="b.GEN.2.3" type="verse">
+						Li beni setyèm jou a, li mete l' apa pou li, paske se jou sa a li te sispann travay apre li te fin kreye tout sa l' t'ap kreye a
+					</seg>
+					<seg id="b.GEN.2.4" type="verse">
+						Se konsa sa te pase lè Bondye t'ap kreye syèl la ak latè a. Lè Seyè a, Bondye a, t'ap fè latè ansanm ak tou sa ki nan syèl la
+					</seg>
+					<seg id="b.GEN.2.5" type="verse">
+						pa t' gen yon ti pyebwa sou tè a. Ankenn zèb pa t' ankò pouse nan jaden, paske Bondye pa t' voye lapli tonbe sou tè a. Lèfini, pa t' gen moun pou travay latè
+					</seg>
+					<seg id="b.GEN.2.6" type="verse">
+						Men, yon vapè dlo leve soti nan tè a, li wouze tout tè a
+					</seg>
+					<seg id="b.GEN.2.7" type="verse">
+						Lè sa a, Seyè a, Bondye a, pran pousyè tè, li fè yon nonm. Li soufle nan twou nen nonm lan pou l' ba li lavi. Epi nonm lan vin vivan
+					</seg>
+					<seg id="b.GEN.2.8" type="verse">
+						Seyè a, Bondye a, plante yon jaden yon kote yo rele Edenn, bò kote solèy leve a. Se la li mete nonm li te fè a
+					</seg>
+					<seg id="b.GEN.2.9" type="verse">
+						Seyè a, Bondye a, te fè tout kalite pyebwa leve nan jaden an, bèl pyebwa ki donnen fwi ki bon pou manje. Nan mitan jaden an te gen de gwo pyebwa. Yonn se te pyebwa ki bay lavi a, lòt la se te pyebwa ki fè moun konnen sa ki byen ak sa ki mal la
+					</seg>
+					<seg id="b.GEN.2.10" type="verse">
+						Yon gwo larivyè soti nan peyi Edenn, li wouze jaden an. Larivyè a te fè kat branch
+					</seg>
+					<seg id="b.GEN.2.11" type="verse">
+						Premye branch lan te rele Pichon. Se larivyè sa a ki wouze tout peyi Avila a, peyi kote yo jwenn anpil lò a
+					</seg>
+					<seg id="b.GEN.2.12" type="verse">
+						Se nan peyi sa a yo jwenn pi bon lò ansanm ak pyebwa gonm arabik ak yon pyè wouj ki koute chè yo rele oniks
+					</seg>
+					<seg id="b.GEN.2.13" type="verse">
+						Dezyèm larivyè a rele Giyon. Se li ki wouze tout peyi Kouch la
+					</seg>
+					<seg id="b.GEN.2.14" type="verse">
+						Twazyèm larivyè a rele Tig. Se li ki pase nan peyi Lasiri, sou bò solèy leve a. Katriyèm larivyè a se Lefrat
+					</seg>
+					<seg id="b.GEN.2.15" type="verse">
+						Seyè a, Bondye a, pran nonm lan, li mete l' nan jaden Edenn lan pou l' travay li, pou l' pran swen l'
+					</seg>
+					<seg id="b.GEN.2.16" type="verse">
+						Seyè a, Bondye a, bay nonm lan lòd sa a. Ou mèt manje donn tout pyebwa ki nan jaden an
+					</seg>
+					<seg id="b.GEN.2.17" type="verse">
+						Men, piga ou manje donn pyebwa ki fè moun konnen sa ki byen ak sa ki mal la. Paske, jou ou manje l', w'ap mouri
+					</seg>
+					<seg id="b.GEN.2.18" type="verse">
+						Seyè a, Bondye a, di ankò. Sa pa bon pou nonm lan rete pou kont li. M'ap fè yon lòt moun sanble avè l' pou ede l'
+					</seg>
+					<seg id="b.GEN.2.19" type="verse">
+						Se konsa, Seyè a, Bondye a, pran pousyè tè, li fè tout kalite zannimo ki nan savann ak tout kalite zwazo k'ap vole nan syèl la. Lè l' fini, li mennen yo bay nonm lan pou wè ki non li tapral ba yo. Se non li te ba yo a ki rete pou yo nèt
+					</seg>
+					<seg id="b.GEN.2.20" type="verse">
+						Se konsa, nonm lan bay tout bèt yo gade, tout bèt nan bwa ak tout zwazo ki nan syèl la non yo. Men, pa t' gen yonn ki te sanble avè l', ki ta ka ede l'
+					</seg>
+					<seg id="b.GEN.2.21" type="verse">
+						Lè sa a, Seyè a, Bondye a, fè dòmi pran nonm lan. Msye dòmi nèt ale. Pandan l'ap dòmi an, Bondye louvri bò kòt li, li wete yon zo kòt. Apre sa, li fèmen twou a byen fèmen
+					</seg>
+					<seg id="b.GEN.2.22" type="verse">
+						Avèk zo kòt li te wete nan nonm lan, li fè yon fanm, li mennen l' ba li
+					</seg>
+					<seg id="b.GEN.2.23" type="verse">
+						Lè nonm lan wè l', li di. Aa! Fwa sa a, men yonn ki menm jan avè m'! Zo l' se zo mwen. Chè l' se chè mwen. Y'a rele l' fanm, paske se nan gason li soti
+					</seg>
+					<seg id="b.GEN.2.24" type="verse">
+						Se poutèt sa, gason an va kite papa l' ak manman l' pou l' mete tèt li ansanm ak madanm li, pou tout de fè yon sèl
+					</seg>
+					<seg id="b.GEN.2.25" type="verse">
+						Nonm lan ak madanm li te toutouni. Men, yo pa t' wont rete konsa
+					</seg>
+				</div>
+				<div id="b.GEN.3" type="chapter">
+					<seg id="b.GEN.3.1" type="verse">
+						Sèpan se bèt ki te pi rize nan tout bèt raje Seyè a, Bondye a, te kreye. Li di fanm lan konsa. Eske Bondye te janm di piga nou manje donn tout pyebwa ki nan jaden an
+					</seg>
+					<seg id="b.GEN.3.2" type="verse">
+						Fanm lan reponn sèpan an. Nou gen dwa manje donn tout pyebwa ki nan jaden an
+					</seg>
+					<seg id="b.GEN.3.3" type="verse">
+						Men, kanta pou pyebwa ki nan mitan jaden an, Bondye di. Piga nou manje ladan l', piga nou manyen l' menm. Sinon, n'ap mouri
+					</seg>
+					<seg id="b.GEN.3.4" type="verse">
+						Lè sa a, sèpan an di fanm lan. Se pa vre. Nou p'ap mouri kras
+					</seg>
+					<seg id="b.GEN.3.5" type="verse">
+						Bondye di nou sa paske li konnen jou nou manje ladan l', je nou va louvri. n'a vin tankou Bondye, n'a konn sa ki byen ak sa ki mal
+					</seg>
+					<seg id="b.GEN.3.6" type="verse">
+						Fanm lan gade, li wè jan pyebwa a te bèl, jan fwi yo sanble yo ta bon nan bouch. Li santi li ta manje ladan l' pou je l' ka louvri. Li keyi kèk fwi. Li manje, li pote bay mari l' ki manje tou
+					</seg>
+					<seg id="b.GEN.3.7" type="verse">
+						Manje yo fin manje, je yo louvri, lè sa a, yo vin konnen yo toutouni. Yo pran kèk fèy figfrans, yo koud yo ansanm, yo fè tanga mete sou yo
+					</seg>
+					<seg id="b.GEN.3.8" type="verse">
+						Jou sa a, solèy te fèk fin kouche lè nonm lan ak madanm li tande vwa Seyè a, Bondye a, ki t'ap pwonmennen nan jaden an. Y' al kache nan mitan pyebwa ki nan jaden an pou Seyè a, Bondye a, pa wè yo
+					</seg>
+					<seg id="b.GEN.3.9" type="verse">
+						Men, Seyè a, Bondye a, rele nonm lan, li di l'. Kote ou ye
+					</seg>
+					<seg id="b.GEN.3.10" type="verse">
+						Nonm lan reponn li. Mwen tande vwa ou nan jaden an, mwen pè. M al kache pou ou, paske mwen toutouni
+					</seg>
+					<seg id="b.GEN.3.11" type="verse">
+						Seyè a, Bondye a, di l'. Ki moun ki di ou te toutouni? Eske ou te manje fwi pyebwa mwen te di ou pa manje a
+					</seg>
+					<seg id="b.GEN.3.12" type="verse">
+						Nonm lan reponn. Fanm ou te ban mwen an, se li menm ki ban mwen fwi pyebwa a pou m' manje, epi mwen manje l'
+					</seg>
+					<seg id="b.GEN.3.13" type="verse">
+						Seyè a, Bondye a, mande fanm lan. Poukisa ou fè sa? Fanm lan reponn li. Se pa mwen non! Se sèpan an wi ki pran tèt mwen ki fè m' manje l'
+					</seg>
+					<seg id="b.GEN.3.14" type="verse">
+						Seyè a, Bondye a, di sèpan an konsa. Poutèt sa ou fè a, ou madichonnen nan mitan tout bèt jaden ak tout bèt nan bwa. W'a rale sou vant ou. W'a manje pousyè tè jouk jou ou mouri
+					</seg>
+					<seg id="b.GEN.3.15" type="verse">
+						Ou menm ak fanm lan, m'ap fè nou lènmi yonn ak lòt. Pitit pitit pa l' ak pitit pitit pa ou ap lènmi tou. Pitit pitit li ap kraze tèt ou, epi ou menm w'ap mòde l' nan talon pye l'
+					</seg>
+					<seg id="b.GEN.3.16" type="verse">
+						Li di fanm lan. Lè w'ap fè pitit, m'ap fè soufrans ou vin pi rèd. Wa gen pou soufri anpil lè w'ap akouche. W'ap toujou anvi mari ou. Men, se mari ou ki va chèf ou
+					</seg>
+					<seg id="b.GEN.3.17" type="verse">
+						Apre sa li di Adan. Ou koute pawòl madanm ou, pa vre! Ou manje fwi pyebwa mwen te ba ou lòd pa manje a. Poutèt sa ou fè a, m'ap madichonnen tè a. W'a gen pou travay di toutan pou fè tè a bay sa ou bezwen pou viv
+					</seg>
+					<seg id="b.GEN.3.18" type="verse">
+						Tè a va kale tout kalite pikan ak pengwen ba ou. W'a manje fèy ki pouse nan raje
+					</seg>
+					<seg id="b.GEN.3.19" type="verse">
+						Se swe kouraj ou ki pou fè ou mete yon moso pen nan bouch ou jouk lè wa tounen nan tè kote ou soti a. Paske, se pousyè ou ye, ou gen pou tounen pousyè ankò
+					</seg>
+					<seg id="b.GEN.3.20" type="verse">
+						Adan bay madanm li non, li rele l' Ev, paske se li menm ki manman tout moun k'ap viv sou tè a
+					</seg>
+					<seg id="b.GEN.3.21" type="verse">
+						Lè sa a, Seyè a, Bondye a, pran po bèt, li fè rad pou Adan ansanm ak madanm li, li biye yo
+					</seg>
+					<seg id="b.GEN.3.22" type="verse">
+						Apre sa, Seyè a, Bondye a, di. Koulye a, Adan vin konnen sa ki byen ak sa ki mal tankou yonn nan nou. Nou p'ap kite l' lonje men l' keyi fwi pyebwa ki bay lavi a pou l' manje l', pou l' pa viv pou tout tan
+					</seg>
+					<seg id="b.GEN.3.23" type="verse">
+						Se konsa, Seyè a, Bondye a, mete Adan deyò nan jaden Edenn lan. Li voye l' al travay tè, menm tè Bondye te pran pou fè l' la
+					</seg>
+					<seg id="b.GEN.3.24" type="verse">
+						Se konsa, li te mete Adan deyò. Sou bò kote solèy leve nan jaden an, li mete kèk zanj cheriben ak yon manchèt klere kou dife nan men yo. Yo t'ap dragonnen nan tout direksyon pou anpeche moun pwoche bò pyebwa ki bay lavi a
+					</seg>
+				</div>
+			</div>
+		</body>
+	</text>
+</cesDoc>

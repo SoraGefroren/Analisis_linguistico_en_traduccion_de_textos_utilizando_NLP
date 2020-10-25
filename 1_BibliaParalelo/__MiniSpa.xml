@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<cesDoc version="4">
+	<cesHeader version="2">
+		<fileDesc>
+			<titleStmt>
+				<h.title>
+					Bible(SPA)
+				</h.title>
+				<respStmt>
+					<respType>
+						Constructed in accordance to CES standards.
+					</respType>
+					<respName>
+						Christos Christodoulopoulos
+					</respName>
+				</respStmt>
+			</titleStmt>
+			<extent>
+				<wordCount>
+					717461
+				</wordCount>
+				<byteCount units="bytes">
+					5186274
+				</byteCount>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					Bible Database
+				</distributor>
+				<eAddress>
+					http://bibledatabase.com
+				</eAddress>
+				<availability>
+					free
+				</availability>
+			</publicationStmt>
+			<sourceDesc/>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				This is a part of multi-lingual corpus of the bible.
+			</projectDesc>
+			<editorialDesc>
+				<conformance level="1">
+					Corpus Encoding Standard, Version 2.0
+				</conformance>
+				<correction method="silent" status="medium"/>
+				<segmentation>
+					Marked up to the level of chapter and verse.
+				</segmentation>
+			</editorialDesc>
+			<tagsDecl/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="es" iso639="spa">
+					Spanish
+				</language>
+			</langUsage>
+			<wsdUsage>
+				<writingSystem id="utf-8"/>
+			</wsdUsage>
+		</profileDesc>
+	</cesHeader>
+	<text>
+		<body id="Bible" lang="es">
+			<div id="b.GEN" type="book">
+				<div id="b.GEN.1" type="chapter">
+					<seg id="b.GEN.1.1" type="verse">
+						En el principio creó Dios los cielos y la tierra
+					</seg>
+					<seg id="b.GEN.1.2" type="verse">
+						Y la tierra estaba sin orden y vacía. Había tinieblas sobre la faz del océano, y el Espíritu de Dios se movía sobre la faz de las aguas
+					</seg>
+					<seg id="b.GEN.1.3" type="verse">
+						Entonces dijo Dios: &quot;Sea la luz&quot;, y fue la luz
+					</seg>
+					<seg id="b.GEN.1.4" type="verse">
+						Dios vio que la luz era buena, y separó Dios la luz de las tinieblas
+					</seg>
+					<seg id="b.GEN.1.5" type="verse">
+						Dios llamó a la luz Día, y a las tinieblas llamó Noche. Y fue la tarde y fue la mañana del primer día
+					</seg>
+					<seg id="b.GEN.1.6" type="verse">
+						Entonces dijo Dios: &quot;Haya una bóveda en medio de las aguas, para que separe las aguas de las aguas.
+					</seg>
+					<seg id="b.GEN.1.7" type="verse">
+						E hizo Dios la bóveda, y separó las aguas que están debajo de la bóveda, de las aguas que están sobre la bóveda. Y fue así
+					</seg>
+					<seg id="b.GEN.1.8" type="verse">
+						Dios llamó a la bóveda Cielos. Y fue la tarde y fue la mañana del segundo día
+					</seg>
+					<seg id="b.GEN.1.9" type="verse">
+						Entonces dijo Dios: &quot;Reúnanse las aguas que están debajo del cielo en un solo lugar, de modo que aparezca la parte seca.&quot; Y fue así
+					</seg>
+					<seg id="b.GEN.1.10" type="verse">
+						Llamó Dios a la parte seca Tierra, y a la reunión de las aguas llamó Mares; y vio Dios que esto era bueno
+					</seg>
+					<seg id="b.GEN.1.11" type="verse">
+						Después dijo Dios: &quot;Produzca la tierra hierba, plantas que den semilla y árboles frutales que den fruto, según su especie, cuya semilla esté en él, sobre la tierra.&quot; Y fue así
+					</seg>
+					<seg id="b.GEN.1.12" type="verse">
+						La tierra produjo hierba, plantas que dan semilla según su especie, árboles frutales cuya semilla está en su fruto, según su especie. Y vio Dios que esto era bueno
+					</seg>
+					<seg id="b.GEN.1.13" type="verse">
+						Y fue la tarde y fue la mañana del tercer día
+					</seg>
+					<seg id="b.GEN.1.14" type="verse">
+						Entonces dijo Dios: &quot;Haya lumbreras en la bóveda del cielo para distinguir el día de la noche, para servir de señales, para las estaciones y para los días y los años
+					</seg>
+					<seg id="b.GEN.1.15" type="verse">
+						Así sirvan de lumbreras para que alumbren la tierra desde la bóveda del cielo.&quot; Y fue así
+					</seg>
+					<seg id="b.GEN.1.16" type="verse">
+						E hizo Dios las dos grandes lumbreras: la lumbrera mayor para dominar en el día, y la lumbrera menor para dominar en la noche. Hizo también las estrellas
+					</seg>
+					<seg id="b.GEN.1.17" type="verse">
+						Dios las puso en la bóveda del cielo para alumbrar sobre la tierra
+					</seg>
+					<seg id="b.GEN.1.18" type="verse">
+						para dominar en el día y en la noche, y para separar la luz de las tinieblas. Y vio Dios que esto era bueno
+					</seg>
+					<seg id="b.GEN.1.19" type="verse">
+						Y fue la tarde y fue la mañana del cuarto día
+					</seg>
+					<seg id="b.GEN.1.20" type="verse">
+						Entonces dijo Dios: &quot;Produzcan las aguas innumerables seres vivientes, y haya aves que vuelen sobre la tierra, en la bóveda del cielo.
+					</seg>
+					<seg id="b.GEN.1.21" type="verse">
+						Y creó Dios los grandes animales acuáticos, todos los seres vivientes que se desplazan y que las aguas produjeron, según su especie, y toda ave alada según su especie. Vio Dios que esto era bueno
+					</seg>
+					<seg id="b.GEN.1.22" type="verse">
+						y los bendijo Dios diciendo: &quot;Sed fecundos y multiplicaos. Llenad las aguas de los mares; y multiplíquense las aves en la tierra.
+					</seg>
+					<seg id="b.GEN.1.23" type="verse">
+						Y fue la tarde y fue la mañana del quinto día
+					</seg>
+					<seg id="b.GEN.1.24" type="verse">
+						Entonces dijo Dios: &quot;Produzca la tierra seres vivientes según su especie: ganado, reptiles y animales de la tierra, según su especie.&quot; Y fue así
+					</seg>
+					<seg id="b.GEN.1.25" type="verse">
+						Hizo Dios los animales de la tierra según su especie, el ganado según su especie y los reptiles de la tierra según su especie. Y vio Dios que esto era bueno
+					</seg>
+					<seg id="b.GEN.1.26" type="verse">
+						Entonces dijo Dios: &quot;Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza, y tenga dominio sobre los peces del mar, las aves del cielo, el ganado, y en toda la tierra, y sobre todo animal que se desplaza sobre la tierra.
+					</seg>
+					<seg id="b.GEN.1.27" type="verse">
+						Creó, pues, Dios al hombre a su imagen; a imagen de Dios lo creó; hombre y mujer los creó
+					</seg>
+					<seg id="b.GEN.1.28" type="verse">
+						Dios los bendijo y les dijo: &quot;Sed fecundos y multiplicaos. Llenad la tierra; sojuzgadla y tened dominio sobre los peces del mar, las aves del cielo y todos los animales que se desplazan sobre la tierra.
+					</seg>
+					<seg id="b.GEN.1.29" type="verse">
+						Dios dijo además: &quot;He aquí que os he dado toda planta que da semilla que está sobre la superficie de toda la tierra, y todo árbol cuyo fruto lleva semilla; ellos os servirán de alimento
+					</seg>
+					<seg id="b.GEN.1.30" type="verse">
+						Y a todo animal de la tierra, a toda ave del cielo, y a todo animal que se desplaza sobre la tierra, en que hay vida, toda planta les servirá de alimento.&quot; Y fue así
+					</seg>
+					<seg id="b.GEN.1.31" type="verse">
+						Dios vio todo lo que había hecho, y he aquí que era muy bueno. Y fue la tarde y fue la mañana del sexto día
+					</seg>
+				</div>
+				<div id="b.GEN.2" type="chapter">
+					<seg id="b.GEN.2.1" type="verse">
+						Así fueron terminados los cielos y la tierra y todos sus ocupantes
+					</seg>
+					<seg id="b.GEN.2.2" type="verse">
+						El séptimo día Dios había terminado la obra que hizo, y reposó en el séptimo día de toda la obra que había hecho
+					</seg>
+					<seg id="b.GEN.2.3" type="verse">
+						Por eso Dios bendijo y santificó el séptimo día, porque en él reposó de toda su obra de creación que Dios había hecho
+					</seg>
+					<seg id="b.GEN.2.4" type="verse">
+						Éstos son los orígenes de los cielos y de la tierra, cuando fueron creados. Cuando Jehovah Dios hizo la tierra y los cielos
+					</seg>
+					<seg id="b.GEN.2.5" type="verse">
+						aún no había en la tierra ningún arbusto del campo, ni había germinado ninguna planta del campo, porque Jehovah Dios no había hecho llover sobre la tierra, ni había hombre para cultivarla
+					</seg>
+					<seg id="b.GEN.2.6" type="verse">
+						Pero subía de la tierra un vapor que regaba toda la superficie de la tierra
+					</seg>
+					<seg id="b.GEN.2.7" type="verse">
+						Entonces Jehovah Dios formó al hombre del polvo de la tierra. Sopló en su nariz aliento de vida, y el hombre llegó a ser un ser viviente
+					</seg>
+					<seg id="b.GEN.2.8" type="verse">
+						Y plantó Jehovah Dios un jardín en Edén, en el oriente, y puso allí al hombre que había formado
+					</seg>
+					<seg id="b.GEN.2.9" type="verse">
+						Jehovah Dios hizo brotar de la tierra toda clase de árboles atractivos a la vista y buenos para comer; también en medio del jardín, el árbol de la vida y el árbol del conocimiento del bien y del mal
+					</seg>
+					<seg id="b.GEN.2.10" type="verse">
+						Un río salía de Edén para regar el jardín, y de allí se dividía en cuatro brazos
+					</seg>
+					<seg id="b.GEN.2.11" type="verse">
+						El nombre del primero era Pisón. Éste rodeaba toda la tierra de Havila, donde hay oro
+					</seg>
+					<seg id="b.GEN.2.12" type="verse">
+						Y el oro de aquella tierra es bueno. También hay allí ámbar y ónice
+					</seg>
+					<seg id="b.GEN.2.13" type="verse">
+						El nombre del segundo río era Guijón. Éste rodeaba toda la tierra de Etiopía
+					</seg>
+					<seg id="b.GEN.2.14" type="verse">
+						El nombre del tercer río era Tigris, que corre al oriente de Asiria. Y el cuarto río era el Éufrates
+					</seg>
+					<seg id="b.GEN.2.15" type="verse">
+						Tomó, pues, Jehovah Dios al hombre y lo puso en el jardín de Edén, para que lo cultivase y lo guardase
+					</seg>
+					<seg id="b.GEN.2.16" type="verse">
+						Y Jehovah Dios mandó al hombre diciendo: &quot;Puedes comer de todos los árboles del jardín
+					</seg>
+					<seg id="b.GEN.2.17" type="verse">
+						pero del árbol del conocimiento del bien y del mal no comerás, porque el día que comas de él, ciertamente morirás.
+					</seg>
+					<seg id="b.GEN.2.18" type="verse">
+						Dijo además Jehovah Dios: &quot;No es bueno que el hombre esté solo; le haré una ayuda idónea.
+					</seg>
+					<seg id="b.GEN.2.19" type="verse">
+						Jehovah Dios, pues, formó de la tierra todos los animales del campo y todas las aves del cielo, y los trajo al hombre para ver cómo los llamaría. Lo que el hombre llamó a los animales, ése es su nombre
+					</seg>
+					<seg id="b.GEN.2.20" type="verse">
+						El hombre puso nombres a todo el ganado, a las aves del cielo y a todos los animales del campo. Pero para Adán no halló ayuda que le fuera idónea
+					</seg>
+					<seg id="b.GEN.2.21" type="verse">
+						Entonces Jehovah Dios hizo que sobre el hombre cayera un sueño profundo; y mientras dormía, tomó una de sus costillas y cerró la carne en su lugar
+					</seg>
+					<seg id="b.GEN.2.22" type="verse">
+						Y de la costilla que Jehovah Dios tomó del hombre, hizo una mujer y la trajo al hombre
+					</seg>
+					<seg id="b.GEN.2.23" type="verse">
+						Entonces dijo el hombre: &quot;Ahora, ésta es hueso de mis huesos y carne de mi carne. Ésta será llamada Mujer, porque fue tomada del hombre.
+					</seg>
+					<seg id="b.GEN.2.24" type="verse">
+						Por tanto, el hombre dejará a su padre y a su madre, y se unirá a su mujer, y serán una sola carne
+					</seg>
+					<seg id="b.GEN.2.25" type="verse">
+						Estaban ambos desnudos, el hombre y su mujer, y no se avergonzaban
+					</seg>
+				</div>
+				<div id="b.GEN.3" type="chapter">
+					<seg id="b.GEN.3.1" type="verse">
+						Entonces la serpiente, que era el más astuto de todos los animales del campo que Jehovah Dios había hecho, dijo a la mujer: --¿De veras Dios os ha dicho: &quot;No comáis de ningún árbol del jardín&quot;
+					</seg>
+					<seg id="b.GEN.3.2" type="verse">
+						La mujer respondió a la serpiente: --Podemos comer del fruto de los árboles del jardín
+					</seg>
+					<seg id="b.GEN.3.3" type="verse">
+						Pero del fruto del árbol que está en medio del jardín ha dicho Dios: &quot;No comáis de él, ni lo toquéis, no sea que muráis.
+					</seg>
+					<seg id="b.GEN.3.4" type="verse">
+						Entonces la serpiente dijo a la mujer: --Ciertamente no moriréis
+					</seg>
+					<seg id="b.GEN.3.5" type="verse">
+						Es que Dios sabe que el día que comáis de él, vuestros ojos serán abiertos, y seréis como Dios, conociendo el bien y el mal
+					</seg>
+					<seg id="b.GEN.3.6" type="verse">
+						Entonces la mujer vio que el árbol era bueno para comer, que era atractivo a la vista y que era árbol codiciable para alcanzar sabiduría. Tomó, pues, de su fruto y comió. Y también dio a su marido que estaba con ella, y él comió
+					</seg>
+					<seg id="b.GEN.3.7" type="verse">
+						Y fueron abiertos los ojos de ambos, y se dieron cuenta de que estaban desnudos. Entonces cosieron hojas de higuera, y se hicieron ceñidores
+					</seg>
+					<seg id="b.GEN.3.8" type="verse">
+						Cuando oyeron la voz de Jehovah Dios que se paseaba en el jardín en el fresco del día, el hombre y su mujer se escondieron de la presencia de Jehovah Dios entre los árboles del jardín
+					</seg>
+					<seg id="b.GEN.3.9" type="verse">
+						Pero Jehovah Dios llamó al hombre y le preguntó: --¿Dónde estás tú
+					</seg>
+					<seg id="b.GEN.3.10" type="verse">
+						Él respondió: --Oí tu voz en el jardín y tuve miedo, porque estaba desnudo. Por eso me escondí
+					</seg>
+					<seg id="b.GEN.3.11" type="verse">
+						Le preguntó Dios: --¿Quién te dijo que estabas desnudo? ¿Acaso has comido del árbol del que te mandé que no comieses
+					</seg>
+					<seg id="b.GEN.3.12" type="verse">
+						El hombre respondió: --La mujer que me diste por compañera, ella me dio del árbol, y yo comí
+					</seg>
+					<seg id="b.GEN.3.13" type="verse">
+						Entonces Jehovah Dios dijo a la mujer: --¿Por qué has hecho esto? La mujer dijo: --La serpiente me engañó, y comí
+					</seg>
+					<seg id="b.GEN.3.14" type="verse">
+						Entonces Jehovah Dios dijo a la serpiente: --Porque hiciste esto, serás maldita entre todos los animales domésticos y entre todos los animales del campo. Te arrastrarás sobre tu vientre y comerás polvo todos los días de tu vida
+					</seg>
+					<seg id="b.GEN.3.15" type="verse">
+						Y pondré enemistad entre ti y la mujer, y entre tu descendencia y su descendencia; ésta te herirá en la cabeza, y tú le herirás en el talón
+					</seg>
+					<seg id="b.GEN.3.16" type="verse">
+						A la mujer dijo: --Aumentaré mucho tu sufrimiento en el embarazo; con dolor darás a luz a los hijos. Tu deseo te llevará a tu marido, y él se enseñoreará de ti
+					</seg>
+					<seg id="b.GEN.3.17" type="verse">
+						Y al hombre dijo: --Porque obedeciste la voz de tu mujer y comiste del árbol del que te mandé diciendo: &quot;No comas de él&quot;, sea maldita la tierra por tu causa. Con dolor comerás de ella todos los días de tu vida
+					</seg>
+					<seg id="b.GEN.3.18" type="verse">
+						espinos y cardos te producirá, y comerás plantas del campo
+					</seg>
+					<seg id="b.GEN.3.19" type="verse">
+						Con el sudor de tu frente comerás el pan hasta que vuelvas a la tierra, pues de ella fuiste tomado. Porque polvo eres y al polvo volverás
+					</seg>
+					<seg id="b.GEN.3.20" type="verse">
+						El hombre llamó el nombre de su mujer Eva, porque ella sería la madre de todos los vivientes
+					</seg>
+					<seg id="b.GEN.3.21" type="verse">
+						Luego Jehovah Dios hizo vestidos de piel para Adán y para su mujer, y los vistió
+					</seg>
+					<seg id="b.GEN.3.22" type="verse">
+						Y Jehovah Dios dijo: --He aquí que el hombre ha llegado a ser como uno de nosotros, conociendo el bien y el mal. Ahora pues, que no extienda su mano, tome también del árbol de la vida, y coma y viva para siempre
+					</seg>
+					<seg id="b.GEN.3.23" type="verse">
+						Y Jehovah Dios lo arrojó del jardín de Edén, para que labrase la tierra de la que fue tomado
+					</seg>
+					<seg id="b.GEN.3.24" type="verse">
+						Expulsó, pues, al hombre y puso querubines al oriente del jardín de Edén, y una espada incandescente que se movía en toda dirección, para guardar el camino al árbol de la vida
+					</seg>
+				</div>
+			</div>
+		</body>
+	</text>
+</cesDoc>

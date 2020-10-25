@@ -1,0 +1,4 @@
+decir:1
+dar:2
+tener:3
+venir:4

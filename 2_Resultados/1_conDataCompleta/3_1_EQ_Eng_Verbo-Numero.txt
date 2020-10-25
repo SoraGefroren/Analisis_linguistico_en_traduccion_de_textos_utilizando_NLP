@@ -1,0 +1,4 @@
+say:1
+give:2
+have:3
+come:4

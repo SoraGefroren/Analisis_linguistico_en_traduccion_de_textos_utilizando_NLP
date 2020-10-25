@@ -1,0 +1,19 @@
+## Preguntas sobre el proyecto:
+
+1. ¿Qué problema es y cómo sabemos que existe el que se atiende en el proyecto?
+    * De acuerdo con académicos de diferentes Universidades (como la Universidad de Guadalajara o la Universidad Veracruzana), existe una carencia de personas que dominen lenguas indígenas. Se ha declarado que este desinterés y falta de apoyo con estas lenguas, propiciando que estén en riesgo de perderse o convertirse en lenguas muertas. Así mismo, tambien existen pocas personas que dominen las lenguas muertas. Por tanto, se puede decir que hay un gran riesgo por perder este acervo lingüístico.
+    * Es importante apoyar la preservación de la riqueza lingüística, de México como del mundo. Sin embargo, ante la falta de personas que dominen lenguas indígenas, existe un latente riesgo de perderlas. Por lo cual, es necesario la implementación de estrategias que ayuden a comprender y salvaguardar todo este bagaje cultural y lingüístico.
+    * Entonces, ante el riesgo de perder la riqueza de las lenguas indígenas, se propone el uso de tecnologías informáticas para apoyar la tarea de procesar o entender documentos escritos en lenguas indígenas, de tal manera que, esto ayude a salvaguardar su cultura y riqueza lingüística.
+    * Para apoya a la tarea de resguardar la riqueza lingüística de las lenguas indígenas, se considera una buena estrategia, partir de documentos escritos en estas lenguas y analizarlos con apoyo a textos equivalentes (que sean traducciones directas) en lenguas populares (como el inglés), con la finalidad de determinar un parte de la estructura gramatical de documentos indígenas y así, apoyar a la tarea de salvaguardarlos.
+2. ¿Qué datos tenemos a nuestra disposición?
+    * La biblia es un documento ampliamente extendido en el mundo, el cual, ha sido traducido a una gran variedad de idiomas, siendo estas traducciones equivalentes entre sí. Es decir, todas las versiones de este documento, representan a uno solo, y por tanto, su revisión podría ayudar al análisis de lenguas indígenas.
+    * Entonces, supones que el análisis de un documento con múltiples equivalencias en varios idiomas, será de gran ayuda para generar un modelo que facilite la revisión y estudio de documentos escritos en una lengua indígena.
+3. ¿Qué podemos deducir de los datos?
+    * A partir del análisis de los datos a nuestra disposición y con base en la estructura gramatical de los textos u oraciones, se puede deducir:
+        * Los verbos que lo componen a al texto, sin importar que el texto de análisis sea desconocido.
+        * Otros aspectos de la gramática del texto, como el sujeto, o la estructura completa de cada oración.
+4. ¿Cómo entrenamos el modelo?
+  * A través de una representación vectorial de las palabras elegidas (en mi caso, verbos), e información sobre la relación de cada palabra con el contexto que le rodea.
+5. ¿Cómo evaluamos nuestro(s) modelo(s)?
+  * Se puede evaluar el modelo obtenido, a través del procesamiento de documento en una lengua conocida, por ejemplo, si genero un X verbos un modelo a partir de un documento en inglés, al procesar un documento en español, el modelo deberia poder determinar que los X verbos en español. Es decir, encontrar los X verbos en inglés y español equivalentes, tanto en su traducción como en su ubicación en el texto.
+

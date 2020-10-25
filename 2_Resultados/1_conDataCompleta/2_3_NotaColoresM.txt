@@ -1,0 +1,12 @@
+Eng: Para "say" corresponde el color "red"
+Spa: Para "decir" corresponde el color "red"
+---------------------------------------------
+Eng: Para "give" corresponde el color "blue"
+Spa: Para "dar" corresponde el color "blue"
+---------------------------------------------
+Eng: Para "have" corresponde el color "green"
+Spa: Para "tener" corresponde el color "green"
+---------------------------------------------
+Eng: Para "come" corresponde el color "orange"
+Spa: Para "venir" corresponde el color "orange"
+---------------------------------------------

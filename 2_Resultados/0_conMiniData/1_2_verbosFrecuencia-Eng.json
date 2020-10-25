@@ -1,0 +1,874 @@
+[
+     [
+          "be",
+          {
+               "Formas": [
+                    "was",
+                    "be",
+                    "were",
+                    "is",
+                    "are"
+               ],
+               "Apariciones": 83
+          }
+     ],
+     [
+          "say",
+          {
+               "Formas": [
+                    "said",
+                    "saying"
+               ],
+               "Apariciones": 30
+          }
+     ],
+     [
+          "eat",
+          {
+               "Formas": [
+                    "eat",
+                    "eaten"
+               ],
+               "Apariciones": 19
+          }
+     ],
+     [
+          "make",
+          {
+               "Formas": [
+                    "made",
+                    "make"
+               ],
+               "Apariciones": 17
+          }
+     ],
+     [
+          "shall",
+          {
+               "Formas": [
+                    "shall"
+               ],
+               "Apariciones": 15
+          }
+     ],
+     [
+          "let",
+          {
+               "Formas": [
+                    "let"
+               ],
+               "Apariciones": 14
+          }
+     ],
+     [
+          "have",
+          {
+               "Formas": [
+                    "have",
+                    "had"
+               ],
+               "Apariciones": 12
+          }
+     ],
+     [
+          "shalt",
+          {
+               "Formas": [
+                    "shalt"
+               ],
+               "Apariciones": 11
+          }
+     ],
+     [
+          "thou",
+          {
+               "Formas": [
+                    "thou"
+               ],
+               "Apariciones": 11
+          }
+     ],
+     [
+          "call",
+          {
+               "Formas": [
+                    "called",
+                    "call"
+               ],
+               "Apariciones": 10
+          }
+     ],
+     [
+          "see",
+          {
+               "Formas": [
+                    "saw",
+                    "see"
+               ],
+               "Apariciones": 9
+          }
+     ],
+     [
+          "bring",
+          {
+               "Formas": [
+                    "bring",
+                    "brought"
+               ],
+               "Apariciones": 9
+          }
+     ],
+     [
+          "take",
+          {
+               "Formas": [
+                    "took",
+                    "taken",
+                    "take"
+               ],
+               "Apariciones": 8
+          }
+     ],
+     [
+          "create",
+          {
+               "Formas": [
+                    "created"
+               ],
+               "Apariciones": 7
+          }
+     ],
+     [
+          "give",
+          {
+               "Formas": [
+                    "give",
+                    "given",
+                    "gave"
+               ],
+               "Apariciones": 7
+          }
+     ],
+     [
+          "live",
+          {
+               "Formas": [
+                    "living",
+                    "live"
+               ],
+               "Apariciones": 7
+          }
+     ],
+     [
+          "do",
+          {
+               "Formas": [
+                    "did",
+                    "done"
+               ],
+               "Apariciones": 7
+          }
+     ],
+     [
+          "divide",
+          {
+               "Formas": [
+                    "divided",
+                    "divide"
+               ],
+               "Apariciones": 5
+          }
+     ],
+     [
+          "yield",
+          {
+               "Formas": [
+                    "yielding"
+               ],
+               "Apariciones": 5
+          }
+     ],
+     [
+          "rule",
+          {
+               "Formas": [
+                    "rule"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "multiply",
+          {
+               "Formas": [
+                    "multiply"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "put",
+          {
+               "Formas": [
+                    "put"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "know",
+          {
+               "Formas": [
+                    "know",
+                    "knowing",
+                    "knew"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "hast",
+          {
+               "Formas": [
+                    "hast"
+               ],
+               "Apariciones": 4
+          }
+     ],
+     [
+          "bless",
+          {
+               "Formas": [
+                    "blessed"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "creepeth",
+          {
+               "Formas": [
+                    "creepeth"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "go",
+          {
+               "Formas": [
+                    "went",
+                    "go"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "form",
+          {
+               "Formas": [
+                    "formed"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "become",
+          {
+               "Formas": [
+                    "became",
+                    "become"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "command",
+          {
+               "Formas": [
+                    "commanded"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "die",
+          {
+               "Formas": [
+                    "die"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "will",
+          {
+               "Formas": [
+                    "will"
+               ],
+               "Apariciones": 3
+          }
+     ],
+     [
+          "move",
+          {
+               "Formas": [
+                    "moved",
+                    "moving"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "may",
+          {
+               "Formas": [
+                    "may"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "moveth",
+          {
+               "Formas": [
+                    "moveth"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "creep",
+          {
+               "Formas": [
+                    "creeping"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "behold",
+          {
+               "Formas": [
+                    "behold"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "rest",
+          {
+               "Formas": [
+                    "rested"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "grow",
+          {
+               "Formas": [
+                    "grew",
+                    "grow"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "cause",
+          {
+               "Formas": [
+                    "caused"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "water",
+          {
+               "Formas": [
+                    "watered",
+                    "water"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "keep",
+          {
+               "Formas": [
+                    "keep"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "meet",
+          {
+               "Formas": [
+                    "meet"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "leave",
+          {
+               "Formas": [
+                    "leave",
+                    "leaves"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "open",
+          {
+               "Formas": [
+                    "opened"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "hear",
+          {
+               "Formas": [
+                    "heard"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "hide",
+          {
+               "Formas": [
+                    "hid"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "wast",
+          {
+               "Formas": [
+                    "wast"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "curse",
+          {
+               "Formas": [
+                    "cursed"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "bruise",
+          {
+               "Formas": [
+                    "bruise"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "thy",
+          {
+               "Formas": [
+                    "thy"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "return",
+          {
+               "Formas": [
+                    "return"
+               ],
+               "Apariciones": 2
+          }
+     ],
+     [
+          "gather",
+          {
+               "Formas": [
+                    "gathered"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "appear",
+          {
+               "Formas": [
+                    "appear"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "set",
+          {
+               "Formas": [
+                    "set"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "hath",
+          {
+               "Formas": [
+                    "hath"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "fly",
+          {
+               "Formas": [
+                    "fly"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "wing",
+          {
+               "Formas": [
+                    "winged"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "fill",
+          {
+               "Formas": [
+                    "fill"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "replenish",
+          {
+               "Formas": [
+                    "replenish"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "subdue",
+          {
+               "Formas": [
+                    "subdue"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "bear",
+          {
+               "Formas": [
+                    "bearing"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "finish",
+          {
+               "Formas": [
+                    "finished"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "end",
+          {
+               "Formas": [
+                    "ended"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "sanctify",
+          {
+               "Formas": [
+                    "sanctified"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "rain",
+          {
+               "Formas": [
+                    "rain"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "breathe",
+          {
+               "Formas": [
+                    "breathed"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "plant",
+          {
+               "Formas": [
+                    "planted"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "part",
+          {
+               "Formas": [
+                    "parted"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "compasseth",
+          {
+               "Formas": [
+                    "compasseth"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "goeth",
+          {
+               "Formas": [
+                    "goeth"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "dress",
+          {
+               "Formas": [
+                    "dress"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "should",
+          {
+               "Formas": [
+                    "should"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "would",
+          {
+               "Formas": [
+                    "would"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "find",
+          {
+               "Formas": [
+                    "found"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "fall",
+          {
+               "Formas": [
+                    "fall"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "sleep",
+          {
+               "Formas": [
+                    "slept"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "close",
+          {
+               "Formas": [
+                    "closed"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "cleave",
+          {
+               "Formas": [
+                    "cleave"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "touch",
+          {
+               "Formas": [
+                    "touch"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "desire",
+          {
+               "Formas": [
+                    "desired"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "sew",
+          {
+               "Formas": [
+                    "sewed"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "walk",
+          {
+               "Formas": [
+                    "walking"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "tell",
+          {
+               "Formas": [
+                    "told"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "shouldest",
+          {
+               "Formas": [
+                    "shouldest"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "gavest",
+          {
+               "Formas": [
+                    "gavest"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "beguile",
+          {
+               "Formas": [
+                    "beguiled"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "hearken",
+          {
+               "Formas": [
+                    "hearkened"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "clothe",
+          {
+               "Formas": [
+                    "clothed"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "send",
+          {
+               "Formas": [
+                    "sent"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "drive",
+          {
+               "Formas": [
+                    "drove"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "place",
+          {
+               "Formas": [
+                    "placed"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "flame",
+          {
+               "Formas": [
+                    "flaming"
+               ],
+               "Apariciones": 1
+          }
+     ],
+     [
+          "turn",
+          {
+               "Formas": [
+                    "turned"
+               ],
+               "Apariciones": 1
+          }
+     ]
+]

@@ -1,0 +1,2 @@
+Perdida:: 79.11%
+Presición: 64.71%
